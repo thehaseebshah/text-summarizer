@@ -1,17 +1,17 @@
 # Text Summarizer
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub stars](https://img.shields.io/github/stars/zenyc/text_summarizer?style=social)
-![Issues](https://img.shields.io/github/issues/zenyc/text_summarizer)
-![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/text_summarizer)
-![GitHub contributors](https://img.shields.io/github/contributors/zenyc/text_summarizer)
-![GitHub forks](https://img.shields.io/github/forks/zenyc/text_summarizer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zenyc/text-summarizer?style=social)
+![Issues](https://img.shields.io/github/issues/zenyc/text-summarizer)
+![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/text-summarizer)
+![GitHub contributors](https://img.shields.io/github/contributors/zenyc/text-summarizer)
+![GitHub forks](https://img.shields.io/github/forks/zenyc/text-summarizer?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**text_summarizer** is a *machine learning model* that summarizes a given text paragraph. It was trained on the Amazon reviews dataset. It uses Deep Learning techniques to do so.
+**text-summarizer** is a *machine learning model* that summarizes a given text paragraph. It was trained on the Amazon reviews dataset. It uses Deep Learning techniques to do so.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
