@@ -6,12 +6,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/text-summarizer)
 ![GitHub contributors](https://img.shields.io/github/contributors/zenyc/text-summarizer)
 ![GitHub forks](https://img.shields.io/github/forks/zenyc/text-summarizer?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)](www.twitter.com/dialhaseeb)
+![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**text-summarizer** is a *machine learning model* that does an abstractive summarization of the text provided to it. It uses Deep Learning techniques to do so.
+**text-summarizer** is a *machine learning model* that summarizes a given text paragraph. It was trained on the Amazon reviews dataset. It uses Deep Learning techniques to do so.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
@@ -44,10 +44,7 @@ Open `Anaconda Navigator` and click Jupyter Notebook.
 
 2- Copy the project files to the directory the notebooks are running.
 
-3- Github has a file upload limit of 100 MBs. Therefore files for this project that are larger than this limit(if any) are uploaded to a *Google Drive* and the link is [bit.ly/proj-dir](www.bit.ly/proj-dir). If, while running the notebook, you see some errors regarding missing files, download them from this link. Afterwards, copy those file(s) to the project's *proj-dir* directory.
-
 3- Open main.ipynb
-4- If you want to view how the model was built, open model.ipynb
 
 ## 📓 Using the Notebook
 
