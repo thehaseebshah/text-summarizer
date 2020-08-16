@@ -42,12 +42,12 @@ Windows:
 
 Open `Anaconda Navigator` and click Jupyter Notebook.
 
-2- Copy the project files to the directory the notebooks are running.
+3- Copy the project files to the directory the notebooks are running.
 
-3- Github has a file upload limit of 100 MBs. Therefore files for this project that are larger than this limit(if any) are uploaded to a *Google Drive* and the link is [bit.ly/proj-dir](www.bit.ly/proj-dir). If, while running the notebook, you see some errors regarding missing files, download them from this link. Afterwards, copy those file(s) to the project's *proj-dir* directory.
+4- Github has a file upload limit of 100 MBs. Therefore files for this project that are larger than this limit(if any) are uploaded to a *Google Drive* and the link is [bit.ly/projdir](www.bit.ly/projdir). If, while running the notebook, you see some errors regarding missing files, download them from this link. Afterwards, copy those file(s) to the project's *proj-dir* directory.
 
-3- Open main.ipynb
-4- If you want to view how the model was built, open model.ipynb
+5- Open main.ipynb
+6- If you want to view how the model was built, open model.ipynb
 
 ## 📓 Using the Notebook
 
